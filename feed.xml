@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>colour me happy</title>
+    <link href="https://rodrigocon.github.io/colourmehappy/feed.xml" rel="self" />
+    <link href="https://rodrigocon.github.io/colourmehappy" />
+    <updated>2022-10-21T14:55:49+11:00</updated>
+    <author>
+        <name>aurora games</name>
+    </author>
+    <id>https://rodrigocon.github.io/colourmehappy</id>
+
+    <entry>
+        <title>Gallery</title>
+        <author>
+            <name>aurora games</name>
+        </author>
+        <link href="https://rodrigocon.github.io/colourmehappy/gallery.html"/>
+        <id>https://rodrigocon.github.io/colourmehappy/gallery.html</id>
+            <category term="Showcase"/>
+
+        <updated>2022-10-21T14:53:31+11:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/header.jpg" data-size="922x738"><img loading="lazy" src="https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/header-thumbnail.jpg" alt="" width="768" height="615"></a></figure>
+<figure class="gallery__item"><a href="https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-46-15.jpg" data-size="1280x881"><img loading="lazy" src="https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-46-15-thumbnail.jpg" alt="" width="768" height="529"></a></figure>
+<figure class="gallery__item"><a href="https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-46-53.jpg" data-size="521x1280"><img loading="lazy" src="https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-46-53-thumbnail.jpg" alt="" width="521" height="1280"></a></figure>
+<figure class="gallery__item"><a href="https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-46-57.jpg" data-size="960x1280"><img loading="lazy" src="https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-46-57-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-47-00.jpg" data-size="914x1280"><img loading="lazy" src="https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-47-00-thumbnail.jpg" alt="" width="768" height="1076"></a></figure>
+<figure class="gallery__item"><a href="https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-47-03.jpg" data-size="960x1280"><img loading="lazy" src="https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-47-03-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-47-09.jpg" data-size="960x1280"><img loading="lazy" src="https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-47-09-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-47-12.jpg" data-size="1030x720"><img loading="lazy" src="https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-47-12-thumbnail.jpg" alt="" width="768" height="537"></a></figure>
+<figure class="gallery__item"><a href="https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-47-15.jpg" data-size="1280x960"><img loading="lazy" src="https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-47-15-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Our last event</title>
+        <author>
+            <name>aurora games</name>
+        </author>
+        <link href="https://rodrigocon.github.io/colourmehappy/our-last-event.html"/>
+        <id>https://rodrigocon.github.io/colourmehappy/our-last-event.html</id>
+
+        <updated>2022-10-21T14:37:32+11:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://rodrigocon.github.io/colourmehappy/media/posts/2/photo_2022-10-21_13-47-03.jpg" alt="" />
+                    many people are absorbed by their fluctuant traces of marvelous colouring tools
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://rodrigocon.github.io/colourmehappy/media/posts/2/photo_2022-10-21_13-47-03.jpg" alt="" />
+                <p>many people are absorbed by their fluctuant traces of marvelous colouring tools<figure class="post__image"><img loading="lazy"  src="https://rodrigocon.github.io/colourmehappy/media/posts/2/photo_2022-10-21_13-46-15.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://rodrigocon.github.io/colourmehappy/media/posts/2/responsive/photo_2022-10-21_13-46-15-xs.jpg 300w ,https://rodrigocon.github.io/colourmehappy/media/posts/2/responsive/photo_2022-10-21_13-46-15-sm.jpg 480w ,https://rodrigocon.github.io/colourmehappy/media/posts/2/responsive/photo_2022-10-21_13-46-15-md.jpg 768w ,https://rodrigocon.github.io/colourmehappy/media/posts/2/responsive/photo_2022-10-21_13-46-15-lg.jpg 1024w"  alt="" width="1280" height="881"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About Us</title>
+        <author>
+            <name>aurora games</name>
+        </author>
+        <link href="https://rodrigocon.github.io/colourmehappy/welcome.html"/>
+        <id>https://rodrigocon.github.io/colourmehappy/welcome.html</id>
+
+        <updated>2022-10-21T14:55:49+11:00</updated>
+            <summary>
+                <![CDATA[
+                    Sydney social paint, ink and draw!! Some people think that art is&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="_04xlpA direction-ltr align-center para-style-body"><span class="JsGRdQ">Sydney social paint, ink and draw!!</span></p>
+<p class="_04xlpA direction-ltr align-center para-style-body"><span class="JsGRdQ">Some people think that art is a therapy in itself - what is more healing than a moment to express your creativity and have fun while doing it :)</span></p>
+<p class="_04xlpA direction-ltr align-center para-style-body"><span class="JsGRdQ">Let's gather and practice some painting, inking and drawing. By bringing together different interests we can enrich ourselves with creative ideas that can further spark our imaginations.</span></p>
+<p class="_04xlpA direction-ltr align-center para-style-body"><span class="JsGRdQ">But wait! That's not all. Once we have had fun doing it, we want to meet each other, and see if we want to come back again, and make friends that craft together, or friends for life.</span></p>
+            ]]>
+        </content>
+    </entry>
+</feed>

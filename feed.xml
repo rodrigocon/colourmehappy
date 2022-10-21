@@ -3,16 +3,16 @@
     <title>colour me happy</title>
     <link href="https://rodrigocon.github.io/colourmehappy/feed.xml" rel="self" />
     <link href="https://rodrigocon.github.io/colourmehappy" />
-    <updated>2022-10-21T14:55:49+11:00</updated>
+    <updated>2022-10-21T15:37:41+11:00</updated>
     <author>
-        <name>aurora games</name>
+        <name>Tale</name>
     </author>
     <id>https://rodrigocon.github.io/colourmehappy</id>
 
     <entry>
         <title>Gallery</title>
         <author>
-            <name>aurora games</name>
+            <name>Tale</name>
         </author>
         <link href="https://rodrigocon.github.io/colourmehappy/gallery.html"/>
         <id>https://rodrigocon.github.io/colourmehappy/gallery.html</id>
@@ -39,7 +39,7 @@
     <entry>
         <title>Our last event</title>
         <author>
-            <name>aurora games</name>
+            <name>Tale</name>
         </author>
         <link href="https://rodrigocon.github.io/colourmehappy/our-last-event.html"/>
         <id>https://rodrigocon.github.io/colourmehappy/our-last-event.html</id>
@@ -61,19 +61,21 @@
     <entry>
         <title>About Us</title>
         <author>
-            <name>aurora games</name>
+            <name>Tale</name>
         </author>
         <link href="https://rodrigocon.github.io/colourmehappy/welcome.html"/>
         <id>https://rodrigocon.github.io/colourmehappy/welcome.html</id>
 
-        <updated>2022-10-21T14:55:49+11:00</updated>
+        <updated>2022-10-21T15:37:41+11:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://rodrigocon.github.io/colourmehappy/media/posts/1/photo_2022-10-21_13-46-53.jpg" alt="" />
                     Sydney social paint, ink and draw!! Some people think that art is&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://rodrigocon.github.io/colourmehappy/media/posts/1/photo_2022-10-21_13-46-53.jpg" alt="" />
                 <p class="_04xlpA direction-ltr align-center para-style-body"><span class="JsGRdQ">Sydney social paint, ink and draw!!</span></p>
 <p class="_04xlpA direction-ltr align-center para-style-body"><span class="JsGRdQ">Some people think that art is a therapy in itself - what is more healing than a moment to express your creativity and have fun while doing it :)</span></p>
 <p class="_04xlpA direction-ltr align-center para-style-body"><span class="JsGRdQ">Let's gather and practice some painting, inking and drawing. By bringing together different interests we can enrich ourselves with creative ideas that can further spark our imaginations.</span></p>

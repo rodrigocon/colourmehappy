@@ -3,16 +3,16 @@
     <title>colour me happy</title>
     <link href="https://rodrigocon.github.io/colourmehappy/feed.xml" rel="self" />
     <link href="https://rodrigocon.github.io/colourmehappy" />
-    <updated>2022-10-21T19:53:30+11:00</updated>
+    <updated>2022-10-24T19:15:41+11:00</updated>
     <author>
-        <name>Tale</name>
+        <name>Colour me Happy :)</name>
     </author>
     <id>https://rodrigocon.github.io/colourmehappy</id>
 
     <entry>
         <title>Gallery</title>
         <author>
-            <name>Tale</name>
+            <name>Colour me Happy :)</name>
         </author>
         <link href="https://rodrigocon.github.io/colourmehappy/gallery.html"/>
         <id>https://rodrigocon.github.io/colourmehappy/gallery.html</id>
@@ -37,36 +37,14 @@
         </content>
     </entry>
     <entry>
-        <title>Our last event</title>
+        <title>About this group</title>
         <author>
-            <name>Tale</name>
-        </author>
-        <link href="https://rodrigocon.github.io/colourmehappy/our-last-event.html"/>
-        <id>https://rodrigocon.github.io/colourmehappy/our-last-event.html</id>
-
-        <updated>2022-10-21T14:37:32+11:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://rodrigocon.github.io/colourmehappy/media/posts/2/photo_2022-10-21_13-47-03.jpg" alt="" />
-                    many people are absorbed by their fluctuant traces of marvelous colouring tools
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://rodrigocon.github.io/colourmehappy/media/posts/2/photo_2022-10-21_13-47-03.jpg" alt="" />
-                <p>many people are absorbed by their fluctuant traces of marvelous colouring tools<figure class="post__image"><img loading="lazy"  src="https://rodrigocon.github.io/colourmehappy/media/posts/2/photo_2022-10-21_13-46-15.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://rodrigocon.github.io/colourmehappy/media/posts/2/responsive/photo_2022-10-21_13-46-15-xs.jpg 300w ,https://rodrigocon.github.io/colourmehappy/media/posts/2/responsive/photo_2022-10-21_13-46-15-sm.jpg 480w ,https://rodrigocon.github.io/colourmehappy/media/posts/2/responsive/photo_2022-10-21_13-46-15-md.jpg 768w ,https://rodrigocon.github.io/colourmehappy/media/posts/2/responsive/photo_2022-10-21_13-46-15-lg.jpg 1024w"  alt="" width="1280" height="881"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>About Us</title>
-        <author>
-            <name>Tale</name>
+            <name>Colour me Happy :)</name>
         </author>
         <link href="https://rodrigocon.github.io/colourmehappy/welcome.html"/>
         <id>https://rodrigocon.github.io/colourmehappy/welcome.html</id>
 
-        <updated>2022-10-21T19:53:30+11:00</updated>
+        <updated>2022-10-24T19:15:41+11:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rodrigocon.github.io/colourmehappy/media/posts/1/photo_2022-10-21_13-46-53.jpg" alt="" />
@@ -80,6 +58,8 @@
 <p class="_04xlpA direction-ltr align-center para-style-body"><span class="JsGRdQ">Some people think that art is a therapy in itself - what is more healing than a moment to express your creativity and have fun while doing it :)</span></p>
 <p class="_04xlpA direction-ltr align-center para-style-body"><span class="JsGRdQ">Let's gather and practice some painting, inking and drawing. By bringing together different interests we can enrich ourselves with creative ideas that can further spark our imaginations.</span></p>
 <p class="_04xlpA direction-ltr align-center para-style-body"><span class="JsGRdQ">But wait! That's not all. Once we have had fun doing it, we want to meet each other, and see if we want to come back again, and make friends that craft together, or friends for life.</span></p>
+<p class="align-center msg msg--highlight "><span style="color: #f1c40f;">To contact us please ring: 0425 766 361 or 0415 502 983</span></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://rodrigocon.github.io/colourmehappy/media/posts/1/photo_2022-10-21_13-47-12.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://rodrigocon.github.io/colourmehappy/media/posts/1/responsive/photo_2022-10-21_13-47-12-xs.jpg 300w ,https://rodrigocon.github.io/colourmehappy/media/posts/1/responsive/photo_2022-10-21_13-47-12-sm.jpg 480w ,https://rodrigocon.github.io/colourmehappy/media/posts/1/responsive/photo_2022-10-21_13-47-12-md.jpg 768w ,https://rodrigocon.github.io/colourmehappy/media/posts/1/responsive/photo_2022-10-21_13-47-12-lg.jpg 1024w"  alt="" width="1030" height="720"></figure>
             ]]>
         </content>
     </entry>

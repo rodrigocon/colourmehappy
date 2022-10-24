@@ -6,7 +6,7 @@
     "feed_url": "https://rodrigocon.github.io/colourmehappy/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Tale"
+        "name": "Colour me Happy :)"
     },
     "items": [
         {
@@ -15,7 +15,7 @@
             "title": "Gallery",
             "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/header.jpg\" data-size=\"922x738\"><img loading=\"lazy\" src=\"https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/header-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"615\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-46-15.jpg\" data-size=\"1280x881\"><img loading=\"lazy\" src=\"https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-46-15-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"529\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-46-53.jpg\" data-size=\"521x1280\"><img loading=\"lazy\" src=\"https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-46-53-thumbnail.jpg\" alt=\"\" width=\"521\" height=\"1280\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-46-57.jpg\" data-size=\"960x1280\"><img loading=\"lazy\" src=\"https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-46-57-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-47-00.jpg\" data-size=\"914x1280\"><img loading=\"lazy\" src=\"https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-47-00-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1076\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-47-03.jpg\" data-size=\"960x1280\"><img loading=\"lazy\" src=\"https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-47-03-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-47-09.jpg\" data-size=\"960x1280\"><img loading=\"lazy\" src=\"https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-47-09-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-47-12.jpg\" data-size=\"1030x720\"><img loading=\"lazy\" src=\"https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-47-12-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"537\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-47-15.jpg\" data-size=\"1280x960\"><img loading=\"lazy\" src=\"https://rodrigocon.github.io/colourmehappy/media/posts/3/gallery/photo_2022-10-21_13-47-15-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n</div></div>",
             "author": {
-                "name": "Tale"
+                "name": "Colour me Happy :)"
             },
             "tags": [
                    "Showcase"
@@ -24,34 +24,19 @@
             "date_modified": "2022-10-21T14:53:31+11:00"
         },
         {
-            "id": "https://rodrigocon.github.io/colourmehappy/our-last-event.html",
-            "url": "https://rodrigocon.github.io/colourmehappy/our-last-event.html",
-            "title": "Our last event",
-            "summary": "many people are absorbed by their fluctuant traces of marvelous colouring tools",
-            "content_html": "<p>many people are absorbed by their fluctuant traces of marvelous colouring tools<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://rodrigocon.github.io/colourmehappy/media/posts/2/photo_2022-10-21_13-46-15.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://rodrigocon.github.io/colourmehappy/media/posts/2/responsive/photo_2022-10-21_13-46-15-xs.jpg 300w ,https://rodrigocon.github.io/colourmehappy/media/posts/2/responsive/photo_2022-10-21_13-46-15-sm.jpg 480w ,https://rodrigocon.github.io/colourmehappy/media/posts/2/responsive/photo_2022-10-21_13-46-15-md.jpg 768w ,https://rodrigocon.github.io/colourmehappy/media/posts/2/responsive/photo_2022-10-21_13-46-15-lg.jpg 1024w\"  alt=\"\" width=\"1280\" height=\"881\"></figure>",
-            "image": "https://rodrigocon.github.io/colourmehappy/media/posts/2/photo_2022-10-21_13-47-03.jpg",
-            "author": {
-                "name": "Tale"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-10-21T13:47:39+11:00",
-            "date_modified": "2022-10-21T14:37:32+11:00"
-        },
-        {
             "id": "https://rodrigocon.github.io/colourmehappy/welcome.html",
             "url": "https://rodrigocon.github.io/colourmehappy/welcome.html",
-            "title": "About Us",
+            "title": "About this group",
             "summary": "Sydney social paint, ink and draw!! Some people think that art is&hellip;",
-            "content_html": "<p class=\"_04xlpA direction-ltr align-center para-style-body\"><span class=\"JsGRdQ\">Sydney social paint, ink and draw!!</span></p>\n<p class=\"_04xlpA direction-ltr align-center para-style-body\"><span class=\"JsGRdQ\">Some people think that art is a therapy in itself - what is more healing than a moment to express your creativity and have fun while doing it :)</span></p>\n<p class=\"_04xlpA direction-ltr align-center para-style-body\"><span class=\"JsGRdQ\">Let's gather and practice some painting, inking and drawing. By bringing together different interests we can enrich ourselves with creative ideas that can further spark our imaginations.</span></p>\n<p class=\"_04xlpA direction-ltr align-center para-style-body\"><span class=\"JsGRdQ\">But wait! That's not all. Once we have had fun doing it, we want to meet each other, and see if we want to come back again, and make friends that craft together, or friends for life.</span></p>",
+            "content_html": "<p class=\"_04xlpA direction-ltr align-center para-style-body\"><span class=\"JsGRdQ\">Sydney social paint, ink and draw!!</span></p>\n<p class=\"_04xlpA direction-ltr align-center para-style-body\"><span class=\"JsGRdQ\">Some people think that art is a therapy in itself - what is more healing than a moment to express your creativity and have fun while doing it :)</span></p>\n<p class=\"_04xlpA direction-ltr align-center para-style-body\"><span class=\"JsGRdQ\">Let's gather and practice some painting, inking and drawing. By bringing together different interests we can enrich ourselves with creative ideas that can further spark our imaginations.</span></p>\n<p class=\"_04xlpA direction-ltr align-center para-style-body\"><span class=\"JsGRdQ\">But wait! That's not all. Once we have had fun doing it, we want to meet each other, and see if we want to come back again, and make friends that craft together, or friends for life.</span></p>\n<p class=\"align-center msg msg--highlight \"><span style=\"color: #f1c40f;\">To contact us please ring: 0425 766 361 or 0415 502 983</span></p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://rodrigocon.github.io/colourmehappy/media/posts/1/photo_2022-10-21_13-47-12.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://rodrigocon.github.io/colourmehappy/media/posts/1/responsive/photo_2022-10-21_13-47-12-xs.jpg 300w ,https://rodrigocon.github.io/colourmehappy/media/posts/1/responsive/photo_2022-10-21_13-47-12-sm.jpg 480w ,https://rodrigocon.github.io/colourmehappy/media/posts/1/responsive/photo_2022-10-21_13-47-12-md.jpg 768w ,https://rodrigocon.github.io/colourmehappy/media/posts/1/responsive/photo_2022-10-21_13-47-12-lg.jpg 1024w\"  alt=\"\" width=\"1030\" height=\"720\"></figure>",
             "image": "https://rodrigocon.github.io/colourmehappy/media/posts/1/photo_2022-10-21_13-46-53.jpg",
             "author": {
-                "name": "Tale"
+                "name": "Colour me Happy :)"
             },
             "tags": [
             ],
             "date_published": "2022-10-21T13:43:23+11:00",
-            "date_modified": "2022-10-21T19:53:30+11:00"
+            "date_modified": "2022-10-24T19:15:41+11:00"
         }
     ]
 }

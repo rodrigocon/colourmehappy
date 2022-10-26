@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://colourmehappysydney.art/sitemap.xml
+Sitemap: https://rodrigocon.github.io/colourmehappy/sitemap.xml
